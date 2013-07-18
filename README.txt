@@ -1,3 +1,3 @@
-How to use
-1. put js/ and lib/ in your app dir
-2. add script tags refering the header of index.html
+This is a basic pinball game I created using the Box2D physics engine for javascript.
+
+I do not take for the files in the folders lib and box2d
